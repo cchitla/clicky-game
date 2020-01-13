@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "selected": "false",
+    "name": "fry",
+    "img": "./images/fry.jpeg"
+  },
+  {
+    "id": 2,
+    "selected": "false",
+    "name": "bender",
+    "img": "./images/bender.jpg"
+  },
+  {
+    "id": 3,
+    "selected": "false",
+    "name": "neutral",
+    "img": "./images/neutral.jpg"
+  }
+]
