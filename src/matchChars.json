@@ -1,19 +1,19 @@
 [
   {
-    "id": 1,
-    "selected": "false",
+    "id": "1",
+    "isSelected": false,
     "name": "fry",
     "img": "./images/fry.jpeg"
   },
   {
-    "id": 2,
-    "selected": "false",
+    "id": "2",
+    "isSelected": false,
     "name": "bender",
     "img": "./images/bender.jpg"
   },
   {
-    "id": 3,
-    "selected": "false",
+    "id": "3",
+    "isSelected": false,
     "name": "neutral",
     "img": "./images/neutral.jpg"
   }
